@@ -10,9 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Openstack
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+  OpenStack adalah platform komputasi awan (cloud computing) open-source yang dirancang untuk membangun dan mengelola cloud publik atau privat. OpenStack menyediakan infrastruktur sebagai layanan (IaaS) dengan menyediakan berbagai layanan utama seperti:
+- Nova untuk pengelolaan komputasi (virtual machine instances).
+- Neutron untuk jaringan virtual.
+- Cinder untuk manajemen storage atau penyimpanan blok.
+- Swift untuk penyimpanan objek.
+- Horizon sebagai dashboard grafis bagi pengguna untuk mengelola resource.
+- Keystone untuk layanan autentikasi dan otorisasi.
+  OpenStack memungkinkan pengguna untuk mengelola resource komputasi, jaringan, dan storage dengan mudah dalam skala besar. Pengguna bisa melakukan otomatisasi pada penyebaran server, memantau kinerja, dan mengelola resource sesuai kebutuhan mereka.
 
 ## Header 2
 
